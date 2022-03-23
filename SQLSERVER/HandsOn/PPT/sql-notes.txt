@@ -1,0 +1,42 @@
+Diff RDBMS Servers
+==================
+1.SQLSERVER
+2.MySQL
+3.Oracle
+SQL
+DDLCommands
+1.create
+2.alter
+3.drop
+4.truncate
+DML Commands
+insert
+update
+delete
+
+What is a Dababase?
+===================
+A database is a collection of objects.
+tables(mange the data )
+views
+strored procedures
+functions
+
+Datatypes in Sqlserver
+======================
+char
+varchar
+int
+float
+nemeric,date,double,datetime,money,bit etc
+
+Constraints in SQLSERVER
+=========================
+constraints are apply on table columns
+Primary Key(does not allow duplicates and table can have only one primary key)
+Foreign Key(refer to primary key value of other table,make relation between tables)
+Unique Key(does not allow duplicates and allow one null value,can have multiple unique key columns in a table)
+Not null(can not allow null values)
+Check(check the value while inserting or updating)(apply validations on the column)
+default(set default value to the column)
+Note: default constraint is null

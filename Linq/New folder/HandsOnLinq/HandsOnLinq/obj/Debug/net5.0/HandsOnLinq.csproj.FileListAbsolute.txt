@@ -1,0 +1,16 @@
+C:\Users\SANTHOSH\OneDrive\Batch-10\Linq\New folder\HandsOnLinq\HandsOnLinq\bin\Debug\net5.0\HandsOnLinq.exe
+C:\Users\SANTHOSH\OneDrive\Batch-10\Linq\New folder\HandsOnLinq\HandsOnLinq\bin\Debug\net5.0\HandsOnLinq.deps.json
+C:\Users\SANTHOSH\OneDrive\Batch-10\Linq\New folder\HandsOnLinq\HandsOnLinq\bin\Debug\net5.0\HandsOnLinq.runtimeconfig.json
+C:\Users\SANTHOSH\OneDrive\Batch-10\Linq\New folder\HandsOnLinq\HandsOnLinq\bin\Debug\net5.0\HandsOnLinq.runtimeconfig.dev.json
+C:\Users\SANTHOSH\OneDrive\Batch-10\Linq\New folder\HandsOnLinq\HandsOnLinq\bin\Debug\net5.0\HandsOnLinq.dll
+C:\Users\SANTHOSH\OneDrive\Batch-10\Linq\New folder\HandsOnLinq\HandsOnLinq\bin\Debug\net5.0\ref\HandsOnLinq.dll
+C:\Users\SANTHOSH\OneDrive\Batch-10\Linq\New folder\HandsOnLinq\HandsOnLinq\bin\Debug\net5.0\HandsOnLinq.pdb
+C:\Users\SANTHOSH\OneDrive\Batch-10\Linq\New folder\HandsOnLinq\HandsOnLinq\obj\Debug\net5.0\HandsOnLinq.csproj.AssemblyReference.cache
+C:\Users\SANTHOSH\OneDrive\Batch-10\Linq\New folder\HandsOnLinq\HandsOnLinq\obj\Debug\net5.0\HandsOnLinq.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SANTHOSH\OneDrive\Batch-10\Linq\New folder\HandsOnLinq\HandsOnLinq\obj\Debug\net5.0\HandsOnLinq.AssemblyInfoInputs.cache
+C:\Users\SANTHOSH\OneDrive\Batch-10\Linq\New folder\HandsOnLinq\HandsOnLinq\obj\Debug\net5.0\HandsOnLinq.AssemblyInfo.cs
+C:\Users\SANTHOSH\OneDrive\Batch-10\Linq\New folder\HandsOnLinq\HandsOnLinq\obj\Debug\net5.0\HandsOnLinq.csproj.CoreCompileInputs.cache
+C:\Users\SANTHOSH\OneDrive\Batch-10\Linq\New folder\HandsOnLinq\HandsOnLinq\obj\Debug\net5.0\HandsOnLinq.dll
+C:\Users\SANTHOSH\OneDrive\Batch-10\Linq\New folder\HandsOnLinq\HandsOnLinq\obj\Debug\net5.0\ref\HandsOnLinq.dll
+C:\Users\SANTHOSH\OneDrive\Batch-10\Linq\New folder\HandsOnLinq\HandsOnLinq\obj\Debug\net5.0\HandsOnLinq.pdb
+C:\Users\SANTHOSH\OneDrive\Batch-10\Linq\New folder\HandsOnLinq\HandsOnLinq\obj\Debug\net5.0\HandsOnLinq.genruntimeconfig.cache

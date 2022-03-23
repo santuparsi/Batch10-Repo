@@ -1,0 +1,16 @@
+--DataFunctions
+select getdate()
+select year('12.23.2000')
+select month('12.23.2000')
+select day('12.23.2000')
+select Month(JoinDate) as 'Joined Month' from Employee
+select DATEPART(yy,'1.20.2019')
+select DATEPART(mm,'1.20.2019')
+select DATEPART(dd,'1.20.2019')
+select DATEPART(dw,'12.21.2021')
+select DATEDIFF(yy,'12.2.2000','12.21.2021')
+select DATEDIFF(mm,'12.2.2000','12.21.2021')
+select DATEDIFF(dd,'12.2.2000','12.21.2021')
+select DATEADD(yy,2,'12.21.2021')
+select DATEADD(dd,2,'12.21.2021')
+select DATEADD(mm,2,'12.21.2021')
