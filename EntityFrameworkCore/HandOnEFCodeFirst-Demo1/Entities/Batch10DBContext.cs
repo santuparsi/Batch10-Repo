@@ -10,6 +10,7 @@ namespace HandOnEFCodeFirst_Demo1.Entities
     {
         //entity set
         public DbSet<Student> Students { get; set; }
+        public DbSet<Staff> Staffs { get; set; }
         //Conntection String
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
         {
