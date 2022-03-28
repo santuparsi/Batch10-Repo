@@ -1,0 +1,14 @@
+1.Creat a Web API Project
+2.Create a Model Book(Bid,Bname,Price,lang,releaseyear,author,publisher)
+3.Create a Repository and implement following functions
+	a. GetAllBooks()
+	b. GetBookById()
+	c. GetBookByName()
+	d. GetBooksByAuthor()
+	e. GetBooksByPublisher()
+	f. GetBooksByReleaseYear()
+	g. AddBook()
+4. Define the controller and invoke the Repository functions using diff endpoints
+5. Test the Controller endpoints using Swagger and Postman
+
+Note: Initiate repository objects using DI

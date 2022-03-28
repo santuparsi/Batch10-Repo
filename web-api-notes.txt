@@ -1,0 +1,37 @@
+An endpoint is a method defined in the controller which can access at runtime.
+In Api all the endpoints are access by using http methods
+In Api data is like employee,customer,order,project etc
+http methods are 
+================
+Get-To get data from server
+http://localhost:2345/api/Employee- Get All Employees
+http://localhost:2345/api/Employee/1000-Get Employee by Id.
+Post- To add data to the server
+http://localhost:2345/api/Employee
+Put- To update data in the server
+http://localhost:2345/api/Employee
+Delete- to delete data from the server
+http://localhost:2345/api/Employee/1000
+
+
+public class EmployeeController
+{
+public List<Employee> Get()
+{
+//get employees
+}
+public void Post()
+{
+//add employee
+}
+[HttpPost]
+public void AddEmployee()
+{
+//add employee
+}
+}
+
+Swagger
+=======
+1. We can documented the endpoints
+2. We can test api endpoints
