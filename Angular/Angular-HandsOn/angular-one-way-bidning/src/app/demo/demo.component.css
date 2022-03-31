@@ -1,0 +1,9 @@
+h1
+{
+  columns: red;
+}
+pre{
+  text-align: center;
+  border: 1px solid gray;
+  color: tomato;
+}

@@ -1,3 +1,6 @@
+Web API Assignment
+===================
+
 1.Creat a Web API Project
 2.Create a Model Book(Bid,Bname,Price,lang,releaseyear,author,publisher)
 3.Create a Repository and implement following functions
@@ -12,3 +15,4 @@
 5. Test the Controller endpoints using Swagger and Postman
 
 Note: Initiate repository objects using DI
+http://localhost:7876/api/Product/GetAll

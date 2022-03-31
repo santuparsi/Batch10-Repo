@@ -1,0 +1,15 @@
+<div>
+  <h2 style="color: rebeccapurple;">Student Details</h2>
+  <table border="1">
+    <tr>
+     <th>ID</th>
+     <th>Name</th>
+     <th>Age</th>
+    </tr>
+    <tr *ngFor='let s of students'>
+      <td>{{s.studentId}}</td>
+      <td>{{s.studentName}}</td>
+      <td>{{s.studentAge}}</td>
+    </tr>
+  </table>
+</div>
