@@ -1,0 +1,50 @@
+header,footer,nav,main
+{
+  width:80%;
+  margin-left: auto;
+  margin-right: auto;
+  border: 1px solid gray;
+}
+header
+{
+  height: 100px;
+  background-color: blue;
+}
+header h1
+{
+  text-align: center;
+  color: white;
+}
+nav
+{
+  height: 40px;
+  background-color:olivedrab
+}
+nav ul li
+{
+  display: inline;
+}
+nav ul li a
+{
+  color: white;
+  padding:20px;
+  text-align: center;
+}
+main
+{
+  height: 400px;
+  background-color:white
+}
+footer
+{
+  height: 60px;
+  background-color:khaki;
+  margin-top: 0px;
+}
+footer h4
+{
+  text-align: center;
+  color: black;
+  padding: 0px;
+}
+
