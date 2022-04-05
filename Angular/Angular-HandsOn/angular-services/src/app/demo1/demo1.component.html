@@ -1,0 +1,25 @@
+<div>
+  <ol>
+    <li *ngFor="let f of flowers">{{f}}</li>
+  </ol>
+</div>
+<div>
+  <table>
+    <tr>
+      <td>Enter Name</td>
+      <td>
+        <input type="text" name="" id="" [(ngModel)]="name">
+      </td>
+    </tr>
+    <tr>
+      <td colspan="2">
+        <button (click)="Greet()">Greet</button>
+      </td>
+    </tr>
+    <tr>
+      <td colspan="2">
+        {{msg}}
+      </td>
+    </tr>
+  </table>
+</div>
