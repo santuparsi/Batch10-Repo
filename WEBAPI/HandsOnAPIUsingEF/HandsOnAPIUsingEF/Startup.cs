@@ -33,7 +33,14 @@ namespace HandsOnAPIUsingEF
            
             services.AddDbContext<MyContext>(item => item.UseSqlServer(Configuration.GetConnectionString("MyDBConn")));
             services.AddScoped<IProductRepository, ProductRepository>();
-         
+            //enable cors
+            services.AddCors(c => c.AddPolicy("CorsOrigin", policy => 
+            policy.AllowAnyOrigin() //allow any clint address
+               .AllowAnyMethod() //allow any http method like get,post,put,delete
+               .AllowAnyHeader() //allow request and response headers
+            )
+            );
+
             services.AddSwaggerGen(c =>
             {
                 c.SwaggerDoc("v1", new OpenApiInfo { Title = "HandsOnAPIUsingEF", Version = "v1" });
@@ -52,7 +59,7 @@ namespace HandsOnAPIUsingEF
             }
            
             app.UseRouting();
-           
+            app.UseCors("CorsOrigin");
             app.UseAuthorization();
 
             app.UseEndpoints(endpoints =>
